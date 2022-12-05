@@ -1,0 +1,300 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.logo-icon,
+.search-icon {
+  position: absolute;
+  top: 6px;
+  left: -13px;
+  width: 140px;
+  height: 105px;
+  object-fit: cover;
+}
+.search-icon {
+  top: 33px;
+  left: 1359px;
+  width: 81px;
+  height: 68px;
+}
+.main-image-icon,
+.n8-icon,
+.sx-icon {
+  position: absolute;
+  top: 118px;
+  left: -8px;
+  width: 1456px;
+  height: 402px;
+  object-fit: cover;
+}
+.n8-icon,
+.sx-icon {
+  top: 590px;
+  left: 1044px;
+  width: 258px;
+  height: 334px;
+}
+.n8-icon {
+  top: 598px;
+  left: 136px;
+  width: 179px;
+  height: 326px;
+}
+.basket,
+.home-a {
+  text-decoration: none;
+  position: absolute;
+  top: 47px;
+  left: 1309px;
+  width: 50px;
+  height: 33.33px;
+  background-image: url(./public/basket@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.home-a {
+  top: 43.9px;
+  left: 1253.42px;
+  width: 39.01px;
+  height: 36px;
+  transform: rotate(0.81deg);
+  transform-origin: 0 0;
+  background-image: url(./public/home@3x.png);
+}
+.comparer-icon {
+  position: absolute;
+  top: 247px;
+  left: 57px;
+  width: 334px;
+  height: 72px;
+}
+.en-savoir-plus,
+.en-savoir-plus1 {
+  border: 0;
+  padding: 0;
+  background-color: var(--color-gray);
+  position: absolute;
+  top: 774px;
+  left: 323px;
+  width: 248px;
+  height: 72px;
+}
+.en-savoir-plus1 {
+  left: 812px;
+}
+.name-of-logo {
+  margin: 0;
+  position: absolute;
+  top: 36px;
+  left: 113px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  width: 210px;
+  height: 35px;
+}
+.incroyable-p {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.blank-line-p1 {
+  margin: 0;
+}
+.avec-android-12-les-smartphon,
+.comparer-les-smartphones,
+.incroyable-h1 {
+  position: absolute;
+  font-weight: 500;
+  color: var(--color-white);
+  display: inline-block;
+}
+.incroyable-h1 {
+  margin: 0;
+  top: 174px;
+  left: 45px;
+  font-size: var(--font-size-xl);
+  font-family: inherit;
+  width: 372px;
+  height: 241px;
+}
+.avec-android-12-les-smartphon,
+.comparer-les-smartphones {
+  text-decoration: none;
+  top: 270px;
+  left: 67px;
+  width: 328px;
+  height: 48px;
+}
+.avec-android-12-les-smartphon {
+  top: 350px;
+  left: 29px;
+  width: 425px;
+  height: 114px;
+}
+.octo-n8-h2 {
+  margin: 0;
+  top: 554px;
+  left: 164px;
+  font-size: inherit;
+  font-family: inherit;
+  width: 318px;
+  height: 48px;
+}
+.acheter,
+.comparer,
+.contacts,
+.octo-n8-h2,
+.octo-sx-h2,
+.propos-a {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.octo-sx-h2 {
+  margin: 0;
+  top: 554px;
+  left: 1125px;
+  font-size: inherit;
+  font-family: inherit;
+  width: 103px;
+  height: 23px;
+}
+.acheter,
+.comparer,
+.contacts,
+.propos-a {
+  text-decoration: none;
+  top: 54px;
+  left: 1124px;
+  color: inherit;
+  width: 218px;
+  height: 58px;
+}
+.acheter,
+.comparer,
+.contacts {
+  top: 53px;
+  left: 997px;
+  width: 159px;
+  height: 24px;
+}
+.acheter,
+.comparer {
+  left: 872px;
+  width: 125px;
+  height: 29px;
+}
+.comparer {
+  left: 692px;
+  text-align: center;
+  width: 170px;
+  height: 35px;
+}
+.avec-son-stylet-montrez-votre {
+  margin-block-start: 0;
+  margin-block-end: 0;
+  font-size: var(--font-size-sm);
+}
+.artistique-avec-son-stylet-m {
+  top: 603px;
+  left: 295px;
+  color: inherit;
+  width: 269px;
+  height: 207px;
+  font-size: var(--font-size-lg);
+}
+.artistique-avec-son-stylet-m,
+.clair-la-5g-rvolutionne-le-s,
+.en-savoir-plus2,
+.en-savoir-plus3 {
+  text-decoration: none;
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.clair-la-5g-rvolutionne-le-s {
+  top: 603px;
+  left: 812px;
+  color: inherit;
+  white-space: pre-wrap;
+  width: 269px;
+  height: 207px;
+  font-size: var(--font-size-lg);
+}
+.en-savoir-plus2,
+.en-savoir-plus3 {
+  color: var(--color-white);
+  text-align: center;
+  width: 248px;
+}
+.en-savoir-plus2 {
+  top: 795px;
+  left: 323px;
+  height: 40px;
+}
+.en-savoir-plus3 {
+  position: absolute;
+  top: calc(50% + 283px);
+  left: calc(50% + 92px);
+  height: 40px;
+}
+.fr-button {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 945px;
+  left: 16px;
+  width: 120px;
+  height: 52.97px;
+  background-image: url(./public/fr@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.accueil-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+:root {
+  /* fonts */
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-sm: 20px;
+  --font-size-base: 24px;
+  --font-size-lg: 32px;
+  --font-size-xl: 40px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray: #4e4860;
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZFhiI2B.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZ9hiA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
