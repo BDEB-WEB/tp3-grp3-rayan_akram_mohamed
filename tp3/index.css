@@ -1,6 +1,7 @@
 body {
   margin: 0;
   line-height: normal;
+  zoom: 88%;
 }
 .logo-icon,
 .search-icon {
@@ -55,7 +56,7 @@ body {
 }
 .home-a {
   top: 43.9px;
-  left: 1253.42px;
+  left: 1375px;
   width: 39.01px;
   height: 36px;
   transform: rotate(0.81deg);
@@ -96,6 +97,7 @@ body {
   height: 35px;
 }
 .incroyable-p {
+  
   margin-block-start: 0;
   margin-block-end: 0;
 }
@@ -215,12 +217,12 @@ body {
   display: inline-block;
 }
 .clair-la-5g-rvolutionne-le-s {
-  top: 603px;
+  top: 542px;
   left: 812px;
   color: inherit;
-  white-space: pre-wrap;
+  white-space: pre-line;
   width: 269px;
-  height: 207px;
+  height: 100px;
   font-size: var(--font-size-lg);
 }
 .en-savoir-plus2,
@@ -230,14 +232,15 @@ body {
   width: 248px;
 }
 .en-savoir-plus2 {
+  position: absolute;
   top: 795px;
   left: 323px;
   height: 40px;
 }
 .en-savoir-plus3 {
   position: absolute;
-  top: calc(50% + 283px);
-  left: calc(50% + 92px);
+  top: 795px;
+  left: 812px;
   height: 40px;
 }
 .fr-button {
