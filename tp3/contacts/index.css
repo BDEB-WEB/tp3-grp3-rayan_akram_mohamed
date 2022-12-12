@@ -1,6 +1,7 @@
 body {
   margin: 0;
   line-height: normal;
+  zoom: 87%;
 }
 .logo-icon {
   position: absolute;
@@ -34,7 +35,7 @@ body {
 }
 .home-a {
   top: 43.9px;
-  left: 1253.42px;
+  left: 1375px;
   width: 39.01px;
   height: 36px;
   transform: rotate(0.81deg);
