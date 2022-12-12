@@ -1,7 +1,7 @@
 body {
   margin: 0;
   line-height: normal;
-  zoom: 87%;
+  zoom: auto;
 }
 .logo-icon {
   position: absolute;

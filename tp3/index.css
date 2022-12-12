@@ -1,7 +1,7 @@
 body {
   margin: 0;
-  line-height: normal;
-  zoom: 87%;
+  line-height: auto;
+  zoom: auto;
 }
 .logo-icon,
 .search-icon {
