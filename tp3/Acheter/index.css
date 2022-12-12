@@ -1,0 +1,295 @@
+body {
+  margin: 0;
+  line-height: normal;
+  zoom:auto;
+}
+:root {
+  /* fonts */
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-2xs: 12px;
+  --font-size-xs: 16px;
+  --font-size-sm: 20px;
+  --font-size-base: 24px;
+  --font-size-lg: 32px;
+  --font-size-xl: 40px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #4e4860;
+  --color-gray-200: rgba(255, 255, 255, 0.05);
+  --color-gray-300: rgba(255, 255, 255, 0);
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-0: 0px;
+
+  /* Paddings */
+  --padding-sm: 10px;
+  --padding-md: 12px;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-2xs: 12px;
+  --font-size-xs: 16px;
+  --font-size-sm: 20px;
+  --font-size-base: 24px;
+  --font-size-lg: 32px;
+  --font-size-xl: 40px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #4e4860;
+  --color-gray-200: rgba(255, 255, 255, 0.05);
+  --color-gray-300: rgba(255, 255, 255, 0);
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-0: 0px;
+
+  /* Paddings */
+  --padding-sm: 10px;
+  --padding-md: 12px;
+}
+
+.logo-icon {
+  position: absolute;
+  top: 6px;
+  left: -13px;
+  width: 140px;
+  height: 105px;
+  object-fit: cover;
+}
+.home {
+  text-decoration: none;
+  position: absolute;
+  top: 43.9px;
+  left: 1375px;
+  width: 39.01px;
+  height: 36px;
+  transform: rotate(0.81deg);
+  transform-origin: 0 0;
+  background-image: url(./public/home@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.acheter1,
+.comparer,
+.contacts,
+.name-of-logo,
+.propos {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.name-of-logo {
+  top: 36px;
+  left: 113px;
+  font-size: var(--font-size-xl);
+  width: 210px;
+  height: 35px;
+}
+.acheter1,
+.comparer,
+.contacts,
+.propos {
+  text-decoration: none;
+  color: inherit;
+}
+.propos {
+  top: 54px;
+  left: 1124px;
+  width: 218px;
+  height: 58px;
+}
+.acheter1,
+.comparer {
+  top: 53px;
+}
+.contacts {
+  top: 53px;
+  left: 997px;
+  width: 159px;
+  height: 24px;
+}
+.acheter1 {
+  left: 872px;
+  width: 125px;
+  height: 29px;
+}
+.comparer {
+  left: 692px;
+  text-align: center;
+  width: 170px;
+  height: 35px;
+}
+.rectangle-nav {
+  position: absolute;
+  top: 123px;
+  left: 0;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 4px;
+}
+.acheter3 {
+  margin: 0;
+  position: absolute;
+  top: 150px;
+  left: 872px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  width: 295px;
+  height: 90px;
+}
+.aussi-disponible-pour {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.blank-line2 {
+  margin: 0;
+}
+.aussi-disponible-pour-acheter {
+  position: relative;
+  font-weight: 500;
+  text-align: center;
+  display: inline-block;
+  width: 134px;
+  height: 110px;
+}
+.amazon-icon,
+.bestbuy-icon {
+  position: absolute;
+  top: 275px;
+  left: 141px;
+  width: 198px;
+  height: 63px;
+  object-fit: cover;
+}
+.bestbuy-icon {
+  top: 390px;
+  left: 105px;
+  width: 270px;
+  height: 130px;
+}
+.costco-icon {
+  top: 575px;
+  left: 123px;
+  width: 225px;
+  height: 131px;
+}
+.costco-icon,
+.n8-icon,
+.sx-icon,
+.walmart-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.walmart-icon {
+  top: 745px;
+  left: 44px;
+  width: 406px;
+  height: 92px;
+}
+.n8-icon,
+.sx-icon {
+  top: 323px;
+  left: 631px;
+  width: 190px;
+  height: 334px;
+}
+.sx-icon {
+  left: 1053px;
+  width: 200px;
+}
+.n8-599,
+.sx-399 {
+  margin: 0;
+  position: absolute;
+  top: 674px;
+  left: 654px;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  width: 123px;
+  height: 46px;
+}
+.sx-399 {
+  top: 670px;
+  left: 1092px;
+  width: 127px;
+  height: 29px;
+}
+.line-icon {
+  position: absolute;
+  top: 126px;
+  left: 501px;
+  width: 1px;
+  height: 898px;
+  object-fit: cover;
+}
+.ajouter-au-panier,
+.ajouter-au-panier1 {
+  position: absolute;
+  top: 724px;
+  left: 632px;
+  background-color: var(--color-gray-100);
+  width: 176px;
+  height: 64px;
+}
+.ajouter-au-panier1 {
+  left: 1068px;
+}
+.ajouter-au-panier2,
+.ajouter-au-panier3 {
+  text-decoration: none;
+  position: absolute;
+  top: 744px;
+  left: 634px;
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 171px;
+  height: 44px;
+}
+.ajouter-au-panier3 {
+  left: 1070px;
+}
+.acheter {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZFhiI2B.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZ9hiA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
